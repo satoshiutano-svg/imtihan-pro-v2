@@ -1,0 +1,6 @@
+{
+  "name": "Imtihan Pro",
+  "description": "KPK Board Examination Preparation App for Class 9-12 students in Flutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

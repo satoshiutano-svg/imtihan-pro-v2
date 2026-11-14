@@ -1,0 +1,22 @@
+name: imtihan_pro
+description: Complete KPK Board Examination Preparation App for Class 9-12 students across all eight KPK BISE boards.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.6.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  go_router: ^14.8.1
+  shared_preferences: ^2.3.5
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
